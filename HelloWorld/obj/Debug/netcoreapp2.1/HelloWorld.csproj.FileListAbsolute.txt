@@ -1,0 +1,10 @@
+F:\repos\LearnCSharp\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+F:\repos\LearnCSharp\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+F:\repos\LearnCSharp\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+F:\repos\LearnCSharp\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
+F:\repos\LearnCSharp\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+F:\repos\LearnCSharp\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csproj.CoreCompileInputs.cache
+F:\repos\LearnCSharp\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+F:\repos\LearnCSharp\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
+F:\repos\LearnCSharp\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
+F:\repos\LearnCSharp\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb
