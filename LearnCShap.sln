@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1.3_WAP", "Demo1.3_WAP\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1.3_Sqr", "Demo1.3_Sqr\Demo1.3_Sqr.csproj", "{0F50B111-E969-447F-912F-4F00270B64C6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "第3讲", "第3讲", "{9383921F-0206-4C3C-B4CE-3B24F9433B27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo2.3_ScreenSaver", "Demo2.3_ScreenSaver\Demo2.3_ScreenSaver.csproj", "{233F8D54-C883-436F-8580-F5625227AF49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,10 @@ Global
 		{0F50B111-E969-447F-912F-4F00270B64C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F50B111-E969-447F-912F-4F00270B64C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F50B111-E969-447F-912F-4F00270B64C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{233F8D54-C883-436F-8580-F5625227AF49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233F8D54-C883-436F-8580-F5625227AF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233F8D54-C883-436F-8580-F5625227AF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233F8D54-C883-436F-8580-F5625227AF49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
